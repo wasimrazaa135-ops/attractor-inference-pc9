@@ -1,0 +1,14 @@
+# Core analysis stack (versions not pinned; see README to pin the exact versions you used)
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+scikit-image
+joblib
+scanpy
+scrublet
+diptest
+skccm

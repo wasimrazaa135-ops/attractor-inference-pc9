@@ -1,0 +1,7 @@
+{
+  "accuracy_mean": 0.9735171208122511,
+  "accuracy_std": 0.002473652328614849,
+  "permutation_p": 0.004975124378109453,
+  "n_cycling": 6843,
+  "n_noncycling": 10829
+}

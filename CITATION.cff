@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code and controls for: Library effects limit attractor-style inference from single-cell data on drug-tolerant lung cancer cells"
+type: software
+license: MIT
+authors:
+  - family-names: Raza
+    given-names: Wasim
+    orcid: "https://orcid.org/0000-0003-3824-7896"
+  - family-names: Mehmood
+    given-names: Saba
+    orcid: "https://orcid.org/0000-0002-7928-133X"
+  - family-names: Enderlein
+    given-names: Carsten
+    orcid: "https://orcid.org/0000-0002-6907-5014"
+  - family-names: "Alves Barbosa Da Silva"
+    given-names: "Fabrício"
+    orcid: "https://orcid.org/0000-0002-8172-5796"
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPO"
+# After Zenodo gives you a DOI, add the line:  doi: 10.5281/zenodo.XXXXXXX

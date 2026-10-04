@@ -1,0 +1,11 @@
+# Large raw data are downloaded from GEO, not stored here
+*.h5ad
+*.csv.gz
+*.txt.gz
+*.tar
+*.tar.gz
+gse149383/
+gse150949/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

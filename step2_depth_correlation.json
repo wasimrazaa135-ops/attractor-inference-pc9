@@ -1,0 +1,17 @@
+{
+  "before": 0.017163705983470244,
+  "after": 0.0003860649177995906,
+  "n_top_genes_used": 1000,
+  "markers_available": [
+    "EGFR",
+    "TACSTD2",
+    "SERPINE1",
+    "CD24",
+    "MET",
+    "ALDH1A3",
+    "SOX4",
+    "GPRC5A",
+    "CYP1B1"
+  ],
+  "markers_missing": []
+}
